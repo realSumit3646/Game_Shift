@@ -39,7 +39,7 @@ Dataset Name: **Eye-Mouth**
 
 ## 📂 Pretrained Model Files
 Download the **pretrained YOLO11 model weights** from Google Drive:  
-📌 **[Download Model Weights]([https://drive.google.com/your-model-link](https://drive.google.com/drive/folders/19HD86tN8uuyuNWTq897MxYhRSK6d_6ni?usp=sharing))**  
+📌 **[Download Model Weights](https://drive.google.com/drive/folders/19HD86tN8uuyuNWTq897MxYhRSK6d_6ni?usp=sharing)**  
 
 After downloading, **place the model files** inside the `models/` directory:
 ```
